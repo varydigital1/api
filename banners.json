@@ -1,0 +1,34 @@
+{
+  "code": "200",
+  "message": "Get data successfully",
+  "messageKh": "Get data successfully",
+  "data": [
+    {
+      "id": 3,
+      "title": "Every Step we’re Protecting Right",
+      "subtitle": "Consultants offer guidance on a wide range of legal issues, including contract drafting, litigation, compliance, and regulatory matters.",
+      "image": "https://res.cloudinary.com/diqseuweg/image/upload/v1751480005/samples/landscapes/beach-boat.jpg",
+      "buttonText": "Show more",
+      "buttonLink": "/",
+      "status": "ACT"
+    },
+    {
+      "id": 2,
+      "title": "Expert Legal Advice",
+      "subtitle": "We provide professional advice for all your legal matters.",
+      "image": "https://res.cloudinary.com/diqseuweg/image/upload/v1751480003/samples/food/fish-vegetables.jpg",
+      "buttonText": "Learn more",
+      "buttonLink": "/team",
+      "status": "ACT"
+    },
+    {
+      "id": 1,
+      "title": "We are GCL Law Group",
+      "subtitle": "Consultants offer guidance on a wide range of legal issues, including contract drafting, litigation, compliance, and regulatory matters.",
+      "image": "https://res.cloudinary.com/diqseuweg/image/upload/v1751480003/samples/sheep.jpg",
+      "buttonText": "Show more",
+      "buttonLink": "/about",
+      "status": "ACT"
+    }
+  ]
+}
